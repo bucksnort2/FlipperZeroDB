@@ -6,77 +6,107 @@ This repository serves as a central location for tracking useful projects, firmw
 
 ---
 
-## Repository Structure
+# Repository Structure
 
-### Applications
+## Applications
 
 Community applications and application catalogs.
 
-* Flipper Application Catalog
+* [Flipper Application Catalog](./apps/flipper-application-catalog)
 
-### Firmware
+---
+
+## Firmware
 
 Firmware projects and related resources.
 
-* Momentum Firmware
-* Official Flipper Zero Firmware
+* [Momentum Firmware](./firmware/Momentum-Firmware)
+* [Official Flipper Zero Firmware](./firmware/flipperzero-firmware)
 
-### Hardware
+---
+
+## Hardware
 
 Hardware add-ons, development boards, and expansion modules.
 
-#### ESP32-Based
+### ESP32-Based
 
-* ESP32 Marauder
-* Evil Portal
+* [ESP32 Marauder](./hardware/esp32-marauder)
+* [Evil Portal](./hardware/flipper-zero-evil-portal)
 
-#### Radio Modules
+### Radio Modules
 
-* CC1101
-* nRF24L01
+* [CC1101 Notes](./hardware/cc1101)
+* [nRF24L01 Notes](./hardware/nrf24)
 
-### Infrared
+---
+
+## Infrared
 
 Infrared databases and remote collections.
 
-* Flipper IRDB
+* [Flipper IRDB](./infrared/Flipper-IRDB)
 
-### Community Resources
+---
+
+## Community Resources
 
 Large community-maintained collections and reference repositories.
 
-* UberGuidoZ Flipper
-* Awesome Flipper Zero
+* [UberGuidoZ Flipper](./resources/UberGuidoZ-Flipper)
+* [Awesome Flipper Zero](./resources/awesome-flipperzero)
 
-### Personal Collections
+---
+
+## Personal Collections
 
 My own files, captures, experiments, and scripts.
 
-* BadUSB Scripts
-* Infrared Remotes
-* NFC Projects
-* RFID Projects
-* Sub-GHz Captures
-* Development Scripts
-
-### Documentation
-
-Documentation, setup notes, hardware references, and useful links can be found in the `/docs` directory.
-
-* Websites
-* Repositories
-* Firmware Notes
-* Hardware Notes
-* Setup Guides
+* [BadUSB](./badusb)
+* [Infrared Files](./infrared)
+* [NFC](./nfc)
+* [RFID](./rfid)
+* [Sub-GHz](./subghz)
+* [Scripts](./scripts)
 
 ---
 
-## Disclaimer
+## Documentation
 
-This repository is intended for educational, research, and legitimate testing purposes. Always follow applicable laws, regulations, and authorization requirements when interacting with wireless systems, RFID/NFC technologies, or security-related tools.
+Documentation, setup notes, hardware references, and useful links.
+
+* [Websites](./docs/websites.md)
+* [Repositories](./docs/repositories.md)
+* [Firmware Notes](./docs/firmware.md)
+* [Hardware Notes](./docs/hardware.md)
+* [Setup Guide](./docs/setup-guide.md)
+* [Useful Links](./docs/useful-links.md)
 
 ---
 
-## External Repositories
+# External Resources
 
-Many resources in this repository are included as Git submodules and remain the property of their respective authors. Please refer to the original repositories for licensing, contribution guidelines, and project-specific documentation.
+## Official Resources
+
+* [Flipper Zero Website](https://flipperzero.one/)
+* [Flipper Documentation](https://docs.flipper.net/)
+* [Flipper Lab](https://lab.flipper.net/)
+* [Flipper Forum](https://forum.flipper.net/)
+
+## Community Repositories
+
+* [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
+* [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
+* [UberGuidoZ Flipper](https://github.com/UberGuidoZ/Flipper)
+* [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware)
+* [ESP32 Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+
+---
+
+# Disclaimer
+
+This repository is intended for educational, research, and legitimate testing purposes.
+
+Always ensure you have authorization before interacting with networks, wireless devices, RFID/NFC systems, or other technologies that you do not own or administer.
+
+Many resources in this repository are included as Git submodules and remain the property of their respective authors. Please refer to the original repositories for licensing information and project-specific documentation.
