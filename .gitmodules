@@ -5,7 +5,7 @@
 	path = apps/flipper-application-catalog
 	url = https://github.com/flipperdevices/flipper-application-catalog.git
 [submodule "awesome-lists/awesome-flipperzero"]
-	path = awesome-lists/awesome-flipperzero
+	path = resources/awesome-flipperzero
 	url = https://github.com/djsime1/awesome-flipperzero.git
 [submodule "firmware/flipperzero-firmware"]
 	path = firmware/flipperzero-firmware
@@ -14,10 +14,10 @@
 	path = firmware/Momentum-Firmware
 	url = https://github.com/Next-Flip/Momentum-Firmware.git
 [submodule "wifi-devboard/ESP32Marauder"]
-	path = wifi-devboard/ESP32Marauder
+	path = hardware/esp32-marauder
 	url = https://github.com/justcallmekoko/ESP32Marauder.git
 [submodule "wifi-devboard/flipper-zero-evil-portal"]
-	path = wifi-devboard/flipper-zero-evil-portal
+	path = hardware/flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
 [submodule "resources/UberGuidoZ-Flipper"]
 	path = resources/UberGuidoZ-Flipper
