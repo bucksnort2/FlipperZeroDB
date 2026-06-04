@@ -80,7 +80,7 @@ Documentation, setup notes, hardware references, and useful links.
 * [Firmware Notes](./docs/firmware.md)
 * [Hardware Notes](./docs/hardware.md)
 * [Setup Guide](./docs/setup-guide.md)
-* [Useful Links](./docs/useful-links.md)
+
 
 ---
 
