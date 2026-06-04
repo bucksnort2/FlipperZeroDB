@@ -1,110 +1,183 @@
 # Firmware
 
-Firmware projects and firmware-related notes for the Flipper Zero.
+Firmware projects, references, notes, and resources related to the Flipper Zero.
 
-## Included as Submodules
+---
 
-### Momentum Firmware
+# Firmware Status Legend
 
-Local path:
+* **Submodule** = Included directly in this repository.
+* **Active** = Currently maintained and worth considering.
+* **Reference** = Useful for documentation, development, or comparison.
+* ~~Strikethrough URL~~ = Historical, archived, discontinued, or generally not recommended for new installations.
 
-[Momentum-Firmware](./Momentum-Firmware)
+---
 
-Original repository:
+# Included Firmware Projects
+
+## Momentum Firmware
+
+Local Path:
+
+`./Momentum-Firmware`
+
+Repository:
 
 https://github.com/Next-Flip/Momentum-Firmware
 
-Status: Current / Daily Driver
+Status: Active / Current Daily Driver
 
-Notes:
+Description:
 
-Momentum is my current firmware choice. This section is for notes about installation, updates, configuration, and features I use regularly.
+Community-maintained firmware focused on additional functionality, user interface improvements, quality-of-life enhancements, and expanded customization options.
+
+Personal Notes:
+
+* Currently installed on my Flipper Zero.
+* Primary firmware used for daily operation.
 
 ---
 
-### Unleashed Firmware
+## Unleashed Firmware
 
-Local path:
+Local Path:
 
-[unleashed-firmware](./unleashed-firmware)
+`./unleashed-firmware`
 
-Original repository:
+Repository:
 
 https://github.com/DarkFlippers/unleashed-firmware
 
-Status: Reference / Alternative Firmware
+Status: Active
 
-Notes:
+Description:
 
-Unleashed is a popular custom firmware focused on additional features and improvements while staying close to the official firmware experience.
+Popular alternative firmware that expands functionality while maintaining a user experience similar to the official firmware.
+
+Personal Notes:
+
+* Useful alternative to Momentum.
+* Worth testing and comparing against Momentum Firmware.
 
 ---
 
-### Official Flipper Zero Firmware
+## Official Flipper Zero Firmware
 
-Local path:
+Local Path:
 
-[flipperzero-firmware](./flipperzero-firmware)
+`./flipperzero-firmware`
 
-Original repository:
+Repository:
 
 https://github.com/flipperdevices/flipperzero-firmware
 
-Status: Reference
+Status: Active / Reference
 
-Notes:
+Description:
 
-Official firmware maintained by Flipper Devices. Useful as a baseline reference when comparing features, APIs, and behavior across custom firmware projects.
+Official firmware maintained by Flipper Devices.
+
+Personal Notes:
+
+* Useful as a baseline reference.
+* Important when troubleshooting firmware-specific issues.
+* Primary source for SDK and firmware development documentation.
 
 ---
 
-## Other Firmware Projects
+# Historical Firmware Projects
 
-These are older, discontinued, archived, or less commonly used firmware projects that may still be useful for historical reference.
+These projects may still contain useful information, but are generally considered historical references rather than recommended firmware choices.
 
-### ~~RogueMaster Firmware~~
+## RogueMaster Firmware
 
 Repository:
 
-https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+~~https://github.com/RogueMaster/flipperzero-firmware-wPlugins~~
 
-Status: Older / Historical Reference
+Status: Historical Reference
+
+Description:
+
+Previously popular firmware that bundled many community applications and plugins into a single firmware image.
 
 Notes:
 
-Previously popular custom firmware with bundled plugins and experimental features.
+* Frequently referenced in older tutorials and videos.
+* Many features have since been incorporated into other firmware projects.
 
 ---
 
-### ~~Xtreme Firmware~~
+## Xtreme Firmware
 
 Repository:
 
-https://github.com/ClaraCrazy/Flipper-Xtreme
+~~https://github.com/ClaraCrazy/Flipper-Xtreme~~
 
-Status: Discontinued / Historical Reference
+Status: Historical Reference
 
-Notes:
+Description:
 
-Older custom firmware project. Some users may still reference older guides or discussions related to it.
-
----
-
-### ~~Unleashed Forks / Mirrors~~
-
-Status: Use Caution
+Community firmware that offered additional functionality and customization.
 
 Notes:
 
-Use the official DarkFlippers repository for Unleashed. Avoid random mirrors, paid versions, or closed-source claims.
+* No longer actively maintained.
+* Some older resources and discussions still reference it.
 
 ---
 
-## Notes
+# Firmware Comparison
 
-When testing firmware:
+| Firmware           | Status     | Included in Repository | Notes                       |
+| ------------------ | ---------- | ---------------------- | --------------------------- |
+| Official Firmware  | Active     | Yes                    | Baseline reference firmware |
+| Momentum Firmware  | Active     | Yes                    | Current daily driver        |
+| Unleashed Firmware | Active     | Yes                    | Alternative firmware        |
+| RogueMaster        | Historical | No                     | Older firmware project      |
+| Xtreme             | Historical | No                     | Archived project            |
 
-- Back up the SD card first.
-- Document the version installed.
-- Keep notes on crashes or unusual behavior.
-- Track which apps or features behave differently between firmware versions.
+---
+
+# Testing Notes
+
+## Current Firmware
+
+* Firmware: Momentum
+* Version: TBD
+* Install Date: TBD
+
+## Previous Firmware
+
+| Firmware | Version | Notes |
+| -------- | ------- | ----- |
+| TBD      | TBD     | TBD   |
+
+---
+
+# Resources
+
+## Official Resources
+
+* https://flipperzero.one/
+* https://docs.flipper.net/
+* https://lab.flipper.net/
+
+## Firmware Repositories
+
+* https://github.com/flipperdevices/flipperzero-firmware
+* https://github.com/Next-Flip/Momentum-Firmware
+* https://github.com/DarkFlippers/unleashed-firmware
+
+---
+
+# Notes
+
+Whenever testing a new firmware:
+
+1. Back up the SD card.
+2. Record the installed version.
+3. Note any crashes or stability issues.
+4. Test major applications and hardware modules.
+5. Document differences from the previous firmware.
+
