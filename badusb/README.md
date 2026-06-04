@@ -6,19 +6,15 @@ Collection of BadUSB scripts, notes, references, and testing resources.
 
 ### Windows
 
-* Productivity scripts
-* Administrative utilities
-* Testing scripts
+
 
 ### Linux
 
-* Administrative utilities
-* Terminal automation
+
 
 ### macOS
 
-* Automation scripts
-* Productivity tools
+
 
 ## Notes
 
