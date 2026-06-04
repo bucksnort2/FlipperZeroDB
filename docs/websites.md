@@ -2,140 +2,49 @@
 
 A collection of useful websites, web tools, documentation portals, and community resources for the Flipper Zero ecosystem.
 
----
+## Official Resources
 
-# Official Resources
+### Flipper Zero Website
+https://flipperzero.one/
 
-## Flipper Lab
+Official product website.
 
-https://lab.flipper.net/
-
-Official web interface for managing a Flipper Zero from a browser.
-
-Features:
-
-* Firmware updates
-* Application management
-* File browser
-* Device information
-* Backup and restore functionality
-
----
-
-## Flipper Documentation
-
+### Flipper Documentation
 https://docs.flipper.net/
 
-Official documentation maintained by Flipper Devices.
+Official documentation and developer resources.
 
-Topics include:
+### Flipper Lab
+https://lab.flipper.net/
 
-* Device features
-* Firmware usage
-* Development documentation
-* Hardware information
-* Troubleshooting guides
+Browser-based device management.
 
----
-
-## Flipper Forum
-
+### Flipper Forum
 https://forum.flipper.net/
 
-Official community forum for discussion, support, and development.
-
-Topics include:
-
-* Firmware
-* Hardware modifications
-* Application development
-* Troubleshooting
-* Community projects
+Official community forum.
 
 ---
 
-# Community Tools
+## Community Tools
 
-## Dictionary Enricher
-
+### Dictionary Enricher
 https://matzzebib.github.io/DictEnricher/
 
-Utility for generating and expanding custom wordlists.
+Wordlist generation tool.
 
-Useful for:
-
-* Security testing
-* Password auditing
-* Custom dictionary generation
-
----
-
-## Flipper FAP Actions
-
+### Flipper FAP Actions
 https://joelewis012.github.io/flipper-fap-actions/
 
-Searchable web interface for Flipper applications and repositories.
+Search and discovery tool for applications.
 
-Useful for:
-
-* Discovering applications
-* Finding GitHub repositories
-* Exploring community projects
-
----
-
-## Flipper Maker
-
-https://flippermaker.github.io/
-
-Collection of web-based utilities and file generators for the Flipper Zero.
-
----
-
-# Firmware Resources
-
-## Momentum Firmware
-
+### Momentum Firmware
 https://momentum-fw.dev/
 
-Official website for Momentum Firmware.
-
-Provides:
-
-* Releases
-* Documentation
-* Feature lists
-* Installation instructions
+Momentum documentation and releases.
 
 ---
 
-# Development Resources
+## Notes
 
-## Flipper Application Catalog
-
-https://catalog.flipperzero.one/
-
-Official application catalog.
-
-Useful for:
-
-* Browsing applications
-* Discovering new software
-* Reviewing app metadata
-
----
-
-# Notes
-
-This list focuses on websites that provide one or more of the following:
-
-* Documentation
-* Tools
-* Application discovery
-* Development resources
-* Community knowledge
-* Firmware resources
-* Educational content
-
-Additional repositories can be found in `docs/repositories.md`.
-
+Useful GitHub repositories are documented in repositories.md.
