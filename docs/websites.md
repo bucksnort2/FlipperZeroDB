@@ -125,34 +125,6 @@ Useful for:
 
 ---
 
-# Community Repositories
-
-These are websites that primarily serve as entry points to larger GitHub projects.
-
-## Flipper IRDB
-
-https://github.com/Lucaslhm/Flipper-IRDB
-
-Large infrared database containing remote files for televisions, audio equipment, projectors, air conditioners, and other IR-controlled devices.
-
----
-
-## Awesome Flipper Zero
-
-https://github.com/djsime1/awesome-flipperzero
-
-Curated collection of Flipper Zero resources, tools, firmware, hardware projects, tutorials, and community links.
-
----
-
-## UberGuidoZ Flipper
-
-https://github.com/UberGuidoZ/Flipper
-
-Large community repository containing reference material, collections, tutorials, applications, and Flipper-related resources.
-
----
-
 # Notes
 
 This list focuses on websites that provide one or more of the following:
