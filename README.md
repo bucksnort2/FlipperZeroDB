@@ -12,7 +12,7 @@ This repository serves as a central location for tracking useful projects, firmw
 
 Community applications and application catalogs.
 
-* [Flipper Application Catalog](./apps/flipper-application-catalog)
+* [Flipper Application Catalog](https://github.com/flipperdevices/flipper-application-catalog/tree/6c67dac597c3db1c9044fd394c2ed42ba7c58c87)
 
 ---
 
@@ -20,8 +20,8 @@ Community applications and application catalogs.
 
 Firmware projects and related resources.
 
-* [Momentum Firmware](./firmware/Momentum-Firmware)
-* [Official Flipper Zero Firmware](./firmware/flipperzero-firmware)
+* [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware/tree/8ed809fba8af7ac3f09b9495a597d8963f9178a8)
+* [Official Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware/tree/c9ab2b6827fc4d646e98ad0fc15a264240b58986)
 
 ---
 
@@ -31,8 +31,8 @@ Hardware add-ons, development boards, and expansion modules.
 
 ### ESP32-Based
 
-* [ESP32 Marauder](./hardware/esp32-marauder)
-* [Evil Portal](./hardware/flipper-zero-evil-portal)
+* [ESP32 Marauder](https://github.com/justcallmekoko/ESP32Marauder/tree/a4672eb5d8033883f86fbd62cf53388c8f8b8fcb)
+* [Evil Portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/d196f60fe8b40f21b6aa296483c03494daf1f946)
 
 ### Radio Modules
 
@@ -45,7 +45,7 @@ Hardware add-ons, development boards, and expansion modules.
 
 Infrared databases and remote collections.
 
-* [Flipper IRDB](./infrared/Flipper-IRDB)
+* [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB/tree/d126fb1b6f1e114c52b4a8c19839ea65e3a9c24d)
 
 ---
 
@@ -53,8 +53,8 @@ Infrared databases and remote collections.
 
 Large community-maintained collections and reference repositories.
 
-* [UberGuidoZ Flipper](./resources/UberGuidoZ-Flipper)
-* [Awesome Flipper Zero](./resources/awesome-flipperzero)
+* [UberGuidoZ Flipper](https://github.com/UberGuidoZ/Flipper/tree/6aeaa546c1a52ecca8393bef6ef1abea0195609c)
+* [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero/tree/135dc8f6d21c915551c386a0ebbe3a4e7ed2bc10)
 
 ---
 
