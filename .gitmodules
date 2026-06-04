@@ -22,3 +22,6 @@
 [submodule "resources/UberGuidoZ-Flipper"]
 	path = resources/UberGuidoZ-Flipper
 	url = https://github.com/UberGuidoZ/Flipper.git
+[submodule "firmware/unleashed-firmware"]
+	path = firmware/unleashed-firmware
+	url = https://github.com/DarkFlippers/unleashed-firmware.git
