@@ -19,3 +19,6 @@
 [submodule "wifi-devboard/flipper-zero-evil-portal"]
 	path = wifi-devboard/flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
+[submodule "resources/UberGuidoZ-Flipper"]
+	path = resources/UberGuidoZ-Flipper
+	url = https://github.com/UberGuidoZ/Flipper.git
