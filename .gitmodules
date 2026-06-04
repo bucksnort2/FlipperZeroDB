@@ -13,11 +13,11 @@
 [submodule "firmware/Momentum-Firmware"]
 	path = firmware/Momentum-Firmware
 	url = https://github.com/Next-Flip/Momentum-Firmware.git
-[submodule "hardware/esp32-marauder"]
-	path = hardware/esp32-marauder
+[submodule "hardware/esp32/esp32-marauder"]
+	path = hardware/esp32/esp32-marauder
 	url = https://github.com/justcallmekoko/ESP32Marauder.git
-[submodule "hardware/flipper-zero-evil-portal"]
-	path = hardware/flipper-zero-evil-portal
+[submodule "hardware/esp32/flipper-zero-evil-portal"]
+	path = hardware/esp32/flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
 [submodule "resources/UberGuidoZ-Flipper"]
 	path = resources/UberGuidoZ-Flipper
