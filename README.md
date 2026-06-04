@@ -1,49 +1,82 @@
-# My Flipper Zero Collection
+# FlipperZeroDB
 
-Personal collection of Flipper Zero resources, notes, scripts, captures, and references.
+A personal collection of Flipper Zero resources, documentation, notes, hardware references, and external repositories.
 
-## Firmware
+This repository serves as a central location for tracking useful projects, firmware, applications, hardware add-ons, and my own Flipper Zero experiments.
 
-- Momentum Firmware
-- Official Firmware
-- Unleashed Firmware
+---
 
-## Community Resources
-
-### Databases
-
-- Flipper IRDB
-- Awesome Flipper Zero
+## Repository Structure
 
 ### Applications
 
-- Flipper Application Catalog
-- Momentum Extra Apps
+Community applications and application catalogs.
 
-### Development
+* Flipper Application Catalog
 
-- Official Flipper Zero Firmware
-- Flipper Application SDK
+### Firmware
 
-## Hardware
+Firmware projects and related resources.
 
-### WiFi Development Boards
+* Momentum Firmware
+* Official Flipper Zero Firmware
 
-- ESP32 Marauder
-- Evil Portal
+### Hardware
 
-### Radio Modules
+Hardware add-ons, development boards, and expansion modules.
 
-- CC1101
-- nRF24L01
+#### ESP32-Based
 
-## My Files
+* ESP32 Marauder
+* Evil Portal
 
-- Custom BadUSB Scripts
-- Infrared Remotes
-- NFC Projects
-- RF Captures
+#### Radio Modules
 
-## Notes
+* CC1101
+* nRF24L01
 
-See the `/docs` directory for guides and observations.
+### Infrared
+
+Infrared databases and remote collections.
+
+* Flipper IRDB
+
+### Community Resources
+
+Large community-maintained collections and reference repositories.
+
+* UberGuidoZ Flipper
+* Awesome Flipper Zero
+
+### Personal Collections
+
+My own files, captures, experiments, and scripts.
+
+* BadUSB Scripts
+* Infrared Remotes
+* NFC Projects
+* RFID Projects
+* Sub-GHz Captures
+* Development Scripts
+
+### Documentation
+
+Documentation, setup notes, hardware references, and useful links can be found in the `/docs` directory.
+
+* Websites
+* Repositories
+* Firmware Notes
+* Hardware Notes
+* Setup Guides
+
+---
+
+## Disclaimer
+
+This repository is intended for educational, research, and legitimate testing purposes. Always follow applicable laws, regulations, and authorization requirements when interacting with wireless systems, RFID/NFC technologies, or security-related tools.
+
+---
+
+## External Repositories
+
+Many resources in this repository are included as Git submodules and remain the property of their respective authors. Please refer to the original repositories for licensing, contribution guidelines, and project-specific documentation.
